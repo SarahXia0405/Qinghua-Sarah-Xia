@@ -2,7 +2,13 @@
 🎓 M.S. Applied Data Science @ The University of Chicago  
 🎓 B.S. Economics & Financial Mathematics & Business Analysis @ The Ohio State University
 
-💡 Aspiring **Data Analyst / Product Manager** | Future Founder in **AI-Driven Products**
+💡 Dual-track passion: **Analytics × Product Management**  
+🚀 Future founder exploring **AI-driven data products**
+
+📫 **Contact:** [qinghuax@uchicago.edu](mailto:qinghuax@uchicago.edu) · [xiaqinghua860@gmail.com](mailto:xiaqinghua860@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/qinghua-xia-479199252](https://www.linkedin.com/in/qinghua-xia-479199252/)  
+🌐 **Portfolio:** [Work Collection](https://drive.google.com/drive/folders/1NOOXdOJ0TsRDatB2Ip037RUuKURWdNos?usp=drive_link)
+
 
 ---
 ## 💥 What Drives Me
@@ -85,10 +91,5 @@ Goal: enable smarter urban mobility by understanding **how humans actually move*
 > from hypothesis to user story, from insight to impact.
 
 ---
-
-📫 **Contact:** [qinghuax@uchicago.edu](mailto:qinghuax@uchicago.edu) · [xiaqinghua860@gmail.com](mailto:xiaqinghua860@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/qinghua-xia-479199252](https://www.linkedin.com/in/qinghua-xia-479199252/)  
-🌐 **Portfolio:** [Work Collection](https://drive.google.com/drive/folders/1NOOXdOJ0TsRDatB2Ip037RUuKURWdNos?usp=drive_link)
-
 
 ⭐ *“I don’t wait for opportunities — I build them.”*
