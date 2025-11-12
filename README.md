@@ -5,27 +5,12 @@
 💡 Aspiring **Data Analyst / Product Manager** | Future Founder in **AI-Driven Products**
 
 ---
-
-## 🚀 My North Star
-> To build products and insights that make data *actionable* — turning analysis into innovation, and innovation into real impact.
-
-I believe great decisions come from great data, and great products come from people who care enough to turn that data into something *useful, beautiful, and scalable.*
-
----
-
 ## 💥 What Drives Me
 | Focus | What It Means to Me | Example |
 |-------|---------------------|----------|
 | 📊 **Analytical Thinking** | Using data to *reveal what others don’t see* — finding the “why” behind every number. | Built predictive models at Welltower uncovering 15–20% ROI lift and optimized $MM CapEx budgets. |
 | 🧭 **Product Mindset** | Translating insights into *delightful experiences* and measurable business outcomes. | At Kuaishou, led A/B tests and UX redesign → +25% conversion uplift & +35% user retention. |
 | 💡 **Entrepreneurial Drive** | Taking initiative to *build from 0→1*, where vision meets execution. | Launched “Carpooling Mini Program” in WeChat — product ideation, MVP, and rollout for corporate commuting. |
-
----
-
-# 👋 Hi, I’m **Qinghua (Sarah) Xia**
-🎓 M.S. Applied Data Science @ The University of Chicago  
-💡 Dual-track passion: **Analytics × Product Management**  
-🚀 Future founder exploring **AI-driven data products**
 
 ---
 
