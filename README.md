@@ -60,9 +60,22 @@ I always start from the same question: **“How can this create measurable value
 ---
 
 ## 🌱 Currently Exploring
-- 🚀 Incubating an **AI-powered CapEx Intelligence** startup concept  
-- 🧩 Building **vision + ROI prediction pipeline** for real-estate assets  
-- 💬 Studying growth metrics, retention loops, and product discovery frameworks  
+🧠 **1. AI-Powered Adaptive Conversational Survey Platform**   
+Goal: transform traditional questionnaires into *human-like, insight-rich conversations* for product research, customer feedback, and market analytics.
+
+🏠 **2. Computer Vision for Real Estate Asset Intelligence**  
+Goal: automate condition assessment and ROI forecasting for capital expenditure planning and property management.
+
+🗺️ **3. Intelligent Mapping & Route Optimization Engine**  
+Goal: enable smarter urban mobility by understanding **how humans actually move**, not just how maps are drawn.
+
+---
+
+## 🏅 Certifications
+| Certification | Issuer |
+|---------------|---------|
+| **Tableau Desktop Specialist** | Tableau |
+| **AWS Certified Cloud Practitioner** | Amazon Web Services |
 
 ---
 
@@ -73,7 +86,7 @@ I always start from the same question: **“How can this create measurable value
 
 ---
 
-📫 **Contact:** [qinghuax@uchicago.edu](mailto:qinghuax@uchicago.edu)  
+📫 **Contact:** [qinghuax@uchicago.edu](mailto:qinghuax@uchicago.edu) · [xiaqinghua860@gmail.com](mailto:xiaqinghua860@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/qinghua-xia-479199252](https://www.linkedin.com/in/qinghua-xia-479199252/)  
 🌐 **Portfolio:** [Work Collection](https://drive.google.com/drive/folders/1NOOXdOJ0TsRDatB2Ip037RUuKURWdNos?usp=drive_link)
 
