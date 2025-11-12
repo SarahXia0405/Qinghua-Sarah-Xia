@@ -1,5 +1,6 @@
 # 👋 Hi, I’m **Qinghua (Sarah) Xia**
 🎓 M.S. Applied Data Science @ The University of Chicago  
+🎓 B.S. Economics & Financial Mathematics & Business Analysis @ The Ohio State University
 💡 Aspiring **Data Analyst / Product Manager** | Future Founder in **AI-Driven Products**
 
 ---
